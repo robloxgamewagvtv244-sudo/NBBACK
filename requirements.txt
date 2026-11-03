@@ -1,0 +1,1 @@
+discord.py>=2.4,<3\npython-dotenv>=1.0\nFlask>=3.0\nwavelink>=3.4,<4\n
